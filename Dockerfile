@@ -1,1 +1,1 @@
-from gcr.io/kfserving/storage-initializer:v0.4.0
+from gcr.io/kubeflow-images-public/admission-webhook:vmaster-ge5452b6f
