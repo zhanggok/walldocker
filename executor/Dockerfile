@@ -1,1 +1,0 @@
-from gcr.io/kaniko-project/executor:v0.11.0

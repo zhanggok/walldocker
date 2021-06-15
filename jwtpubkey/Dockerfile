@@ -1,1 +1,0 @@
-from gcr.io/kubeflow-images-public/jwtpubkey:v20200311-v0.7.0-rc.5-109-g641fb40b-dirty-eb1cdc
