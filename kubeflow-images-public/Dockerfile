@@ -1,1 +1,1 @@
-from gcr.io/kubeflow-images-public/admission-webhook:vmaster-ge5452b6f
+from gcr.io/google-containers/pause:2.0
