@@ -1,0 +1,1 @@
+from gcr.io/kubeflow-images-public/kubebench/workflow-agent:bc682c1
