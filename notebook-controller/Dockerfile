@@ -1,1 +1,0 @@
-from gcr.io/kubeflow-images-public/notebook-controller:vmaster-g6eb007d0
