@@ -1,1 +1,0 @@
-from gcr.io/ml-pipeline/inverse-proxy-agent:dummy
