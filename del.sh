@@ -9,9 +9,10 @@ do
    read_dir $1"/"$file
  else
    dockerfile=`cat $1"/"$file | tr "\t" " " | tr -s " " | cut -d " " -f 2`
+   dockerfile=${dockerfile%@*}":latest"
  #  sudo docker tag $tximagename  $dockerfile
-  # sudo docker rmi $tximagename 
-    echo $dockerfile
+   sudo docker rmi $dockerfile 
+   # echo echo ${dockerfile%@*}":latest"
 # echo $1"/"$file #在此处处理文件即可
  fi
 done
