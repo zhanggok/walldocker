@@ -1,1 +1,1 @@
-from gcr.io/arrikto/kubeflow/oidc-authservice:6ac9400
+from gcr.io/arrikto/kubeflow/oidc-authservice:28c59ef
