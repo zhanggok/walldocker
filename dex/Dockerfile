@@ -1,0 +1,1 @@
+from quay.io/dexidp/dex:v2.24.0
