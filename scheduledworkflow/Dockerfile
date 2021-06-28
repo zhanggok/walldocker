@@ -1,1 +1,1 @@
-from gcr.io/ml-pipeline/scheduledworkflow:dummy
+from gcr.io/ml-pipeline/scheduledworkflow:1.5.0

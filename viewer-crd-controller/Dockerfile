@@ -1,1 +1,1 @@
-from gcr.io/ml-pipeline/viewer-crd-controller:dummy
+from gcr.io/ml-pipeline/viewer-crd-controller:1.5.0
