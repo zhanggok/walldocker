@@ -1,1 +1,5 @@
-gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:808d7adaad163831d14aaca0b08322bc1b8ed77cfdb9566d51bca19c95caa3c3
+quay.io/k8scsi/csi-provisioner:v1.6.0
+quay.io/k8scsi/csi-attacher:v2.0.0
+quay.io/k8scsi/csi-resizer:v0.5.0
+chubaofs/cfs-csi-driver:2.4.0.110.4
+quay.io/k8scsi/csi-node-driver-registrar:v1.3.0
