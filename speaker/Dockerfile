@@ -1,1 +1,1 @@
-from quay.io/metallb/speaker:v0.10.2
+from quay.io/metallb/speaker:v0.8.1
